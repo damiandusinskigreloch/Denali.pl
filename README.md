@@ -1,2 +1,2 @@
 # Denali.pl
-Strona dla firmy alpinistycznej.
+Website for rope access company in Cracov.
